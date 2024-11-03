@@ -44,10 +44,10 @@ Tic-Tac-Toe is a two-player game where each player alternates marking a square o
   * "X" is displayed in **red**. 
   * "O" is displayed in **blue**.
 
-# 👀 Example Gameplay -------------------  
-`Choose Mode: 
+# 👀 Example Gameplay  
+Choose Mode: 
 1. Player vs Player (PvP)
 2. Player vs Computer (PvC) 
 Player X: Choose Your Number (1-9):
  5 
-============= | 1 | 2 | 3 | ------------- | 4 | X | 6 | ------------- | 7 | 8 | 9 | =============`”
+============= | 1 | 2 | 3 | ------------- | 4 | X | 6 | ------------- | 7 | 8 | 9 | =============
